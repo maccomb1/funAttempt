@@ -629,7 +629,7 @@ table.tabular td {
 }
 
 .main-title {
-	background-color: darkgreen;
+	background-color: darkgreen !important;
 }
 
 
