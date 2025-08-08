@@ -628,6 +628,11 @@ table.tabular td {
 	width: max(30vw, 20rem)
 }
 
+.main-title {
+	background-color: darkgreen;
+}
+
+
 /* 2023-09: gebruik data-toc-label  (via tellen in TeX) ipv data-nav-counter  (via tellen in JS) */
 .toc li::before {
     content: attr(data-toc-label) "  ";
